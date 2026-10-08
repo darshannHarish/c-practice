@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+//commented by gopesh
+
 int add(int x, int y)
 {
     return x + y;
