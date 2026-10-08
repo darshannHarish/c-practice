@@ -2,6 +2,7 @@
 #include <math.h>
 
 //commented by gopesh
+//comment 2 by gopesh
 
 int add(int x, int y)
 {
