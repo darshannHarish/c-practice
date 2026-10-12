@@ -47,6 +47,6 @@ int main()
                 printf("the difference between the sum upto %dth term and the sum upto %dth term is <0.0001\n",k,k-1);
             }
         }
-        tempsum+=term;
+        tempsum+=term;g
     }
 }
